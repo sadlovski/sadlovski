@@ -1,4 +1,4 @@
-<h1 align="center">👋 Olá, eu sou Jl Sadlovski</h1>
+<h1 align="center">👋 Olá, eu sou JS Sadlovski</h1>
 
 <p align="center">
   Desenvolvedor Front-End focado em criar interfaces modernas, responsivas e funcionais.
