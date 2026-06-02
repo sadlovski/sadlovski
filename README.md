@@ -40,17 +40,23 @@ Aplicação desenvolvida com foco em interface moderna, organização e experiê
 
 ---
 
-## 👀 Visitas no perfil
+## 🌐 Perfil em crescimento
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=sadlovski&label=PROFILE+VIEWS&color=00e7ff&style=for-the-badge" alt="Profile views" />
+  <img src="https://komarev.com/ghpvc/?username=sadlovski&label=Visitantes&color=00bfff&style=flat-square" alt="Contador de visitas" />
 </p>
+
+<p align="center">
+  Desenvolvendo projetos reais, evoluindo como Front-End e construindo aplicações com foco em produto.
+</p>
+
+---
+
 ## 🔥 Sequência de contribuições
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=sadlovski&theme=github-dark&hide_border=true" />
 </p>
-
 ## 🐍 Contribuições
 
 <p align="center">
