@@ -40,8 +40,6 @@ Aplicação desenvolvida com foco em interface moderna, organização e experiê
 
 ---
 
----
-
 ## 📊 Estatísticas do GitHub
 
 <p align="center">
