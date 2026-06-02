@@ -48,6 +48,13 @@ Aplicação desenvolvida com foco em interface moderna, organização e experiê
 </p>
 
 ---
+---
+
+## 🔥 Sequência de contribuições
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sadlovski&theme=github-dark&hide_border=true" />
+</p>
 
 ## 🐍 Contribuições
 
