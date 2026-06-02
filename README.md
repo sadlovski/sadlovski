@@ -43,9 +43,8 @@ Aplicação desenvolvida com foco em interface moderna, organização e experiê
 ## 👀 Visitas no perfil
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=sadlovski&label=Visualizações%20do%20perfil&color=00bfff&style=for-the-badge" alt="Contador de visitas" />
+  <img src="https://komarev.com/ghpvc/?username=sadlovski&label=PROFILE+VIEWS&color=00e7ff&style=for-the-badge" alt="Profile views" />
 </p>
-
 ## 🔥 Sequência de contribuições
 
 <p align="center">
